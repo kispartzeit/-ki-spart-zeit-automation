@@ -1,0 +1,83 @@
+{
+  "brand": "KI spart Zeit",
+  "edition": "2026-W38",
+  "checked_on": "2026-09-13",
+  "voice": "de-DE-ConradNeural",
+  "videos": [
+    {
+      "id": "2026-w38-01-pdf-zum-lernquiz",
+      "topic_reason": "Praktischer Lern-Workflow mit sichtbarer Zeitersparnis: Aus vorhandenen Unterlagen entsteht eine erste Quiz- und Lernkartenfassung, die anschließend geprüft wird.",
+      "hooks": ["Deine PDF wird zum Lernquiz", "Lernzettel rein, Übungsfragen raus", "So prüfst du dich statt nur zu lesen"],
+      "narration": "Du liest deinen Lernzettel zum dritten Mal? Mach daraus lieber einen Test. Öffne Gemini, lade deine PDF oder deine Notizen hoch und schreibe: Erstelle zwölf Lernkarten und prüfe mich danach mit acht Fragen. Erkläre meine Fehler. Gemini kann aus deinen Dateien Lernkarten, Quizze und Prüfungsmaterial erstellen. Falsche Antworten lässt du direkt erklären und danach erzeugst du weitere Fragen. Das spart Vorbereitung, lernen musst du natürlich selbst. Speichere dir den Prompt.",
+      "cta": "Speichere den Prompt für deine nächste Lernrunde.",
+      "scenes": [
+        {"seconds": "0–3", "visual": "PDF und Fragezeichen im cyan-violetten Portal", "overlay": "PDF → LERNQUIZ"},
+        {"seconds": "3–10", "visual": "Gemini öffnen und Datei-Upload zeigen", "overlay": "PDF ODER NOTIZEN HOCHLADEN"},
+        {"seconds": "10–18", "visual": "Prompt zeilenweise einblenden", "overlay": "12 LERNKARTEN + 8 FRAGEN"},
+        {"seconds": "18–26", "visual": "Quizkarten und Fehlererklärung", "overlay": "FEHLER ERKLÄREN LASSEN"},
+        {"seconds": "26–31", "visual": "Portal schließt sich um gespeicherten Prompt", "overlay": "VORBEREITUNG SPAREN ≠ LERNEN SPAREN"}
+      ],
+      "platforms": {
+        "tiktok": {"title": "PDF rein – Lernquiz raus", "caption": "Aus deinen Unterlagen wird eine erste Quizfassung. Antworten und Fachbegriffe trotzdem am Original prüfen."},
+        "instagram": {"title": "Deine PDF wird zum Lernquiz", "caption": "Mehr aktives Abfragen, weniger bloßes Wiederlesen: Datei hochladen, Lernkarten und Fragen erstellen lassen, Fehler prüfen."},
+        "youtube": {"title": "So machst du aus einer PDF ein Lernquiz mit KI", "caption": "Gemini kann aus hochgeladenen Unterlagen Lernkarten und Übungsfragen vorbereiten. Wichtige Inhalte immer gegen die Quelle prüfen."}
+      },
+      "hashtags": ["#lerntipps", "#gemini", "#künstlicheintelligenz", "#zeitsparen"],
+      "thumbnail": "PDF → LERNQUIZ",
+      "pinned_comment": "Prompt zum Kopieren: Erstelle 12 Lernkarten und prüfe mich danach mit 8 Fragen. Erkläre meine Fehler.",
+      "publish_recommendation": "Montag, 18:30 Uhr (Europe/Berlin); nach 4 Wochen anhand der Plattformdaten neu bewerten.",
+      "sources": [
+        "https://support.google.com/gemini/answer/16275879?co=GENIE.Platform%3DAndroid&hl=de",
+        "https://support.google.com/gemini/answer/14903178?co=GENIE.Platform%3DAndroid&hl=de"
+      ]
+    },
+    {
+      "id": "2026-w38-02-gemini-gems",
+      "topic_reason": "Wiederkehrende Schreibaufgaben lassen sich als wiederverwendbare Anweisung speichern; der Nutzen ist leicht in einer Bildschirmaufnahme zu zeigen.",
+      "hooks": ["Nie wieder denselben Prompt tippen", "Bau dir deinen Prompt einmal", "Dein wiederverwendbarer KI-Assistent"],
+      "narration": "Schreibst du jede Woche denselben KI-Prompt neu? Bau dir einmal ein Gem in Gemini. Öffne Gemini im Browser, gehe zu Gems entdecken und wähle Neues Gem. Speichere Rolle, Aufgabe, Kontext und Ausgabeformat, zum Beispiel für kurze, freundliche Terminbestätigungen mit maximal achtzig Wörtern. Optional lädst du Regeln oder Textbeispiele hoch. Danach gibst du nur noch Name und Termin ein. Prüfe Daten und Namen kurz nach. So wird aus deinem langen Prompt ein wiederverwendbarer Assistent.",
+      "cta": "Speichere das Video und baue dein erstes Gem.",
+      "scenes": [
+        {"seconds": "0–3", "visual": "Derselbe Prompt erscheint dreimal", "overlay": "IMMER WIEDER TIPPEN?"},
+        {"seconds": "3–9", "visual": "Gems entdecken und Neues Gem", "overlay": "NEUES GEM"},
+        {"seconds": "9–20", "visual": "Vier Bausteine fliegen durchs Portal", "overlay": "ROLLE · AUFGABE · KONTEXT · FORMAT"},
+        {"seconds": "20–29", "visual": "Nur Name und Termin werden eingesetzt", "overlay": "NUR NOCH DATEN EINSETZEN"},
+        {"seconds": "29–34", "visual": "Checkmark neben Name und Datum", "overlay": "KURZ PRÜFEN"}
+      ],
+      "platforms": {
+        "tiktok": {"title": "Nie wieder denselben Prompt tippen", "caption": "Ein Gem speichert deine wiederkehrende Anweisung. Ideal für ähnliche Texte – Fakten vor dem Senden kurz prüfen."},
+        "instagram": {"title": "Dein wiederverwendbarer KI-Assistent", "caption": "Rolle, Aufgabe, Kontext und Format einmal festlegen. Danach nur noch die variablen Angaben einsetzen."},
+        "youtube": {"title": "Gemini Gems: Diesen Prompt musst du nur einmal schreiben", "caption": "Mit einem eigenen Gem wird eine wiederkehrende Anweisung wiederverwendbar. Regeln und Beispiele können ergänzt werden."}
+      },
+      "hashtags": ["#geminigems", "#prompttipps", "#produktivität", "#aitools"],
+      "thumbnail": "PROMPT NUR 1×",
+      "pinned_comment": "Meine Kurzformel: Rolle + Aufgabe + Kontext + gewünschtes Ausgabeformat.",
+      "publish_recommendation": "Mittwoch, 18:30 Uhr (Europe/Berlin); nach 4 Wochen anhand der Plattformdaten neu bewerten.",
+      "sources": ["https://support.google.com/gemini/answer/15236321?hl=de&ref_topic=16505260", "https://gemini.google/ch/overview/gems/?hl=de"]
+    },
+    {
+      "id": "2026-w38-03-adobe-express-untertitel",
+      "topic_reason": "Automatische Untertitel ersetzen das manuelle Abtippen; Korrektur und Gestaltung bleiben transparent als notwendige Qualitätskontrolle erhalten.",
+      "hooks": ["Untertitel ohne alles abzutippen", "Diese Rohfassung entsteht automatisch", "Spare dir das Untertitel-Abtippen"],
+      "narration": "Untertitel noch Wort für Wort tippen? Adobe Express erstellt dir automatisch eine Rohfassung. Öffne die Schnellaktionen, wähle Video und dann Video untertiteln. Stelle Deutsch als gesprochene Sprache ein und lade deinen Clip hoch. Anschließend korrigierst du das Transkript, passt Schrift, Farbe und Hintergrund an und lädst das fertige Video herunter. Adobe Express hat dafür einen kostenlosen Tarif. Namen und Fachbegriffe immer kontrollieren. So sparst du Tipparbeit, ohne die Qualitätsprüfung auszulassen.",
+      "cta": "Speichere den Ablauf für dein nächstes Reel.",
+      "scenes": [
+        {"seconds": "0–3", "visual": "Viele Wörter werden manuell getippt", "overlay": "NICHT MEHR ABTIPPEN"},
+        {"seconds": "3–10", "visual": "Adobe Express Schnellaktion öffnen", "overlay": "VIDEO UNTERTITELN"},
+        {"seconds": "10–17", "visual": "Sprache Deutsch und Upload", "overlay": "DEUTSCH + CLIP"},
+        {"seconds": "17–27", "visual": "Transkript und Stil korrigieren", "overlay": "KORRIGIEREN & GESTALTEN"},
+        {"seconds": "27–33", "visual": "Export durch cyan-magenta Portal", "overlay": "NAMEN IMMER PRÜFEN"}
+      ],
+      "platforms": {
+        "tiktok": {"title": "Untertitel ohne Abtippen", "caption": "Adobe Express erzeugt eine Untertitel-Rohfassung. Namen, Zahlen und Fachbegriffe vor dem Export kontrollieren."},
+        "instagram": {"title": "Automatische Untertitel – kostenlos starten", "caption": "Clip hochladen, Sprache wählen, Transkript korrigieren und gestalten. So entfällt ein großer Teil der Tipparbeit."},
+        "youtube": {"title": "Automatische Untertitel erstellen – ohne alles abzutippen", "caption": "Adobe Express bietet automatisches Untertiteln auch im kostenlosen Tarif. Die automatische Fassung braucht eine kurze Qualitätskontrolle."}
+      },
+      "hashtags": ["#adobeexpress", "#untertitel", "#contentcreator", "#zeitsparen"],
+      "thumbnail": "UNTERTITEL AUTOMATISCH",
+      "pinned_comment": "Mein Prüf-Trio vor dem Export: Namen, Zahlen und Fachbegriffe.",
+      "publish_recommendation": "Freitag, 18:30 Uhr (Europe/Berlin); nach 4 Wochen anhand der Plattformdaten neu bewerten.",
+      "sources": ["https://helpx.adobe.com/de/express/web/video-creation-and-editing/edit-videos/caption-video.html", "https://www.adobe.com/de/express/pricing"]
+    }
+  ]
+}
